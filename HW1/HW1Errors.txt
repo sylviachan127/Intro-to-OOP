@@ -1,0 +1,8 @@
+Expereiments:
+1) Compile Error: GTBuzz.java:1: error: class GTbuzz is public, should be declared in a file named GTbuzz.java
+2) Runtime Error: Exception in thread "main" java.lang.ArithmeticException: / by zero at GTBuzz.main(GTBuzz.java:6)
+3) Compile Error: GTBuzz.java:5: error: cannot find symbol
+4) Compile Error: GTBuzz.java:5: error: unclosed character literal
+5) no error
+6) Compile Error: GTBuzz.java:5: error: ';' expected
+7) Compile Error: GTBuzz.java:6: error: reached end of file while parsing
